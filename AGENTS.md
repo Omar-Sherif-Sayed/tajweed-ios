@@ -8,7 +8,7 @@ This repository is one of five. The product's scope, the binding rules (correct 
 login, Arabic and English), the decisions and the task list live in the **parent `AGENTS.md`** of the documentation
 repository:
 
-- in the working folder: `../AGENTS.md` (this repository is cloned inside the `tajweed-docs` folder);
+- in the working folder: `../tajweed-docs/AGENTS.md` (the five repositories sit side by side in the working folder);
 - on GitHub: <https://github.com/Omar-Sherif-Sayed/tajweed-docs/blob/main/AGENTS.md>.
 
 Read the parent file's §0 (current state and next task), §1 (working agreement) and §6 (data integrity rules) before
